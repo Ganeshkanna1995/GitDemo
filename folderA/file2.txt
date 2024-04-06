@@ -1,3 +1,6 @@
 this  is for second commit
 
 this is from person b some changes
+
+this is sthe third commit from person A
+
