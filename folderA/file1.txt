@@ -1,3 +1,6 @@
 This is a sample project for git working
 
 this is check merge conflict.
+
+this some changes
+
